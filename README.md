@@ -4,19 +4,19 @@ This structured 4-week plan will take you from Rust beginner to a competent deve
 
 ## Week 1: Foundations
 
-### Days 1-2: Setup and Basics
+### Days 1-3: Setup and Basics
 - Install Rust toolchain via [rustup](https://rustup.rs/)
 - Complete chapters 1-3 of ["The Rust Programming Language" book](https://doc.rust-lang.org/book/)
 - Write your first "Hello, World!" and simple calculator programs
 - Practice with cargo commands (new, build, run, check)
 
-### Days 3-5: Core Concepts
+### Days 4-6: Core Concepts
 - Complete chapters 4-6 of the book (ownership, structs, enums)
 - Start [Rustlings exercises](https://github.com/rust-lang/rustlings) (variables, functions, if statements)
 - Build a command-line to-do application
 - Daily practice: 2-3 small coding exercises focusing on fundamentals
 
-### Days 6-7: Collections and Error Handling
+### Days 7-9: Collections and Error Handling
 - Complete chapters 7-9 (packages/modules, collections, error handling)
 - Continue Rustlings exercises (strings, error handling)
 - Convert existing code to use proper error handling
@@ -24,13 +24,13 @@ This structured 4-week plan will take you from Rust beginner to a competent deve
 
 ## Week 2: Intermediate Features
 
-### Days 8-10: Traits and Generics
+### Days 10-12: Traits and Generics
 - Complete chapters 10-12 (generics, traits, testing)
 - Rustlings exercises on traits and generics
 - Refactor your previous projects to use traits and generics
 - Practice writing unit tests for your code
 
-### Days 11-14: Functional Programming & Closures
+### Days 13-14: Functional Programming & Closures
 - Complete chapters 13-14 (iterators, closures, cargo)
 - Implement common algorithms using functional programming style
 - Weekend project: Build a text processing tool with advanced features
@@ -51,7 +51,7 @@ This structured 4-week plan will take you from Rust beginner to a competent deve
 ## Week 4: Advanced Topics & Real-World Development
 
 ### Days 22-24: Advanced Pattern Matching & Unsafe Rust
-- Complete chapters 18-21 (patterns, advanced features, unsafe Rust)
+- Complete chapters 22-24 (patterns, advanced features, unsafe Rust)
 - Study FFI (Foreign Function Interface) concepts
 - Create a binding to a small C library
 
